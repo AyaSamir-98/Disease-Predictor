@@ -31,10 +31,6 @@ This project is a simple Disease Predictor built using Python and Machine Learni
 - **Random Forest**: This algorithm creates an ensemble of decision trees and combines their predictions.
 - **Naive Bayes**: This algorithm uses the Naive Bayes probability theorem to make predictions based on symptoms.
 
-## Author
-
-Aya Samir
-
 ## License
 
 This project is licensed under the MIT License.
